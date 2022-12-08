@@ -34,3 +34,26 @@ ul{
     margin-top: 20px;
     display: flex;
 }
+
+.first{
+    gap: 100px;
+    align-items: center;
+    display: flex;
+}
+
+.first-container{
+    padding-bottom: 100px;
+    width: 470px;
+}
+
+.first-header{
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
+.first-header-subtext{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
