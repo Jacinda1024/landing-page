@@ -134,3 +134,44 @@ button{
     color: #1f2937;
 }
 
+.fourth{
+    display: flex;
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-radius: 5px;
+    margin:80px 150px 80px 150px;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+    height: 140px;
+    width: 1000px;
+}
+
+.fourth-text{
+    display: flex;
+    flex-direction: column;
+}
+
+.fourth-header{
+    font-weight: 900;
+    font-size: 18px;
+    margin: 40px 0 0 0;
+}
+
+.fourth-subtext{
+    margin: 0 0 40px 0;
+}
+
+.fourth-button{
+    border-color: #f9faf8;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+    background-color: #1f2937;
+    color: #f9faf8;
+    font-size: 18px;
+}
