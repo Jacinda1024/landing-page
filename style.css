@@ -87,3 +87,23 @@ button{
     font-weight: 900;
     color: #1f2937;
 }
+
+.images-second{
+    margin-left: auto;
+    margin-right: auto;
+    gap: 20px;
+    display: flex;
+}
+
+.image-subtext{
+    display: flex;
+    flex-direction: column;
+}
+
+.image-subtext img{
+    height: 200px;
+    border-radius: 10px;
+    border: solid blue 2px;
+    max-width: 200px;
+}
+
